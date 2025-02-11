@@ -1,0 +1,6 @@
+@TechTalk_Test_HostAddress = http://localhost:5200
+
+GET {{TechTalk_Test_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
