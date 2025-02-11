@@ -19,6 +19,9 @@ A comprehensive Hospital Management System built to streamline hospital operatio
 🛠️ Tech Stack
 
 Frontend: React / React Native
+
 Backend: Node.js / Django / Laravel
+
 Database: MySQL / MongoDB
+
 Authentication: JWT / OAuth
